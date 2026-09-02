@@ -2,10 +2,14 @@
 find broken desktop files in system and delete, very simple, working with flatpak and steam
 created for my self but you can use it 
 
-Example:
+Examples:
 
+For app
 ```
 FinderAndDeleter
+```
+for file
+```
 ./FinderAndDeleter.sh
 ```
 :P 
